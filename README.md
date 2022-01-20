@@ -40,7 +40,7 @@ https://spark.apache.org/docs/latest/ml-guide.html
 ## Project Files
 The files contained in this repository:
 - Sparkify.ipynb : Jupyter notebook with analysis on the subset of data provided by Udacity
-- Sparkify.ipynb :html file that contains the analysis
+- Sparkify.html :html file that contains the analysis
 - mini_sparkify_event_data.json.zip : dataset for this analysis
 
 ## Project Overview
